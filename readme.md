@@ -41,7 +41,7 @@ git clone https://github.com/AleckAstan/tmux-zap ~/.tmux/plugins/tmux-zap
 Add this to your `.tmux.conf`:
 
 ```tmux
-run-shell ~/.tmux/plugins/tmux-zap/zap.tmux
+bind-key z run-shell ~/.tmux/plugins/tmux-zap/zap.tmux
 ```
 
 ## Usage
