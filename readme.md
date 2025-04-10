@@ -2,6 +2,8 @@
 
 `tmux-zap` is a minimal tmux plugin that lets you **instantly jump to any window from any session** using fuzzy search.
 
+
+![tmux-zap demo](./images/Zap.gif)
 ## Features
 
 - Lists **all windows** from all tmux sessions.
